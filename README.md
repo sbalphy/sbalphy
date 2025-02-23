@@ -1,16 +1,21 @@
-## Hi there 👋
+# Olá! Me chamo Joel Soares Moreira 👋
 
-<!--
-**sbalphy/sbalphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Formação
+Bacharel em Ciências Moleculares pela Universidade de São Paulo (USP). Tenho um forte interesse por matemática, ciência de dados e desenvolvimento de software.
 
-Here are some ideas to get you started:
+## 💡 Sobre mim
+Sou apaixonado por resolver problemas complexos utilizando programação e análise de dados. Gosto de explorar novas tecnologias e aprender continuamente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias e Ferramentas
+- **Linguagens:** Python, Java, Go, C++
+- **Ciência de Dados:** Pandas, NumPy, Seaborn, Scikit-learn, Keras
+- **Banco de Dados:** PostgreSQL, Spark
+- **Desenvolvimento Web:** Jinja, HTML, CSS, JavaScript
+- **Big Data & Cloud:** Docker, Kubernetes, Azure Databricks, Snowflake
+
+## 📫 Contato
+- **Email:** joelsoaresmoreira@gmail.com
+- **LinkedIn:** [Joel Soares Moreira](https://www.linkedin.com/in/joel-soares-moreira-430783246/)
+
+🚀 Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir meus conhecimentos!
+
