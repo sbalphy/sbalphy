@@ -10,7 +10,7 @@ Sou apaixonado por resolver problemas complexos utilizando programação e anál
 - **Linguagens:** Python, Java, Go, C++
 - **Ciência de Dados:** Pandas, NumPy, Seaborn, Scikit-learn, Keras
 - **Banco de Dados:** PostgreSQL, SQLite
-- **Desenvolvimento Web:** Jinja, HTML, CSS, JavaScript
+- **Desenvolvimento Web:** Jinja, Flask, HTML, CSS, JavaScript
 - **Big Data & Cloud:** Docker, Kubernetes, Azure Databricks, Snowflake, Spark
 
 ## 📫 Contato
