@@ -11,7 +11,7 @@ Sou apaixonado por resolver problemas complexos utilizando programação e anál
 - **Ciência de Dados:** Pandas, NumPy, Seaborn, Scikit-learn, Keras
 - **Banco de Dados:** PostgreSQL, SQLite, MongoDB
 - **Desenvolvimento Web:** Jinja, Flask, HTML, CSS, JavaScript
-- **Big Data & Cloud:** Docker, Kubernetes, Azure Databricks, Snowflake, Spark
+- **Big Data & Cloud:** Docker, Kubernetes, Azure, Snowflake, Spark
 
 ## 📫 Contato
 - **Email:** joelsoaresmoreira@gmail.com
